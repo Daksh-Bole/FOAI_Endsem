@@ -2,6 +2,8 @@
 
 A full-stack, production-ready orbital intelligence dashboard built with React, Vite, and Tailwind CSS. Track the International Space Station in real-time, analyze global space news, and interact with a context-aware AI mission assistant.
 
+DEPLOYED LINK : https://iridescent-gelato-1c3dfa.netlify.app/ 
+
 ## ✨ Features
 
 - **ISS Live Tracking**: Real-time position updates every 15 seconds.
@@ -41,12 +43,6 @@ A full-stack, production-ready orbital intelligence dashboard built with React, 
    npm run dev
    ```
 
-## 🌐 Deployment (Vercel)
-
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` and follow prompts.
-3. Set environment variables in Vercel Dashboard.
-4. Production build: `vercel --prod`
 
 ## 📊 Logic & Math
 
